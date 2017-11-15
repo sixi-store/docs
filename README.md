@@ -6,6 +6,6 @@ sixi-store文档
 
 #### 后台功能模块图:
 
-![](assets/admin.png)
+![](assets/backend.png)
 
 
